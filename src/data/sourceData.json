@@ -1,0 +1,22 @@
+[
+    {
+        "label": "Revenue",
+        "count" : 470,
+        "total" : 300,
+        "extras" : 400
+    },
+    {
+        "label": "Loss",
+        "count" : 110,
+        "total" : 240 ,
+        "extras" : 500
+    },
+    {
+        "label": "Discount",
+        "count" : 70,
+        "total" : 130 ,
+        "extras" : 200
+    }
+
+
+]
