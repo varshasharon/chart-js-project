@@ -1,8 +1,21 @@
-# React + Vite
+## 📊Chart JS Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project showcases interactive and visually appealing data visualizations using Chart.js in a React environment. The application features a variety of chart types, including:
+#### 📈 Line Chart: 
+Tracks and compares revenue and cost trends over time.
+#### 📊 Bar Chart: 
+Displays counts and totals based on categorical data.
+#### 🍩 Doughnut Chart: 
+Provides a compact, percentage-based representation of data distribution.
 
-Currently, two official plugins are available:
+### 🚀 Key Features:
+Responsive layout without media queries for a seamless user experience across devices.
+Clean and minimal UI with hover effects for enhanced interactivity.
+Dynamic data sourced from JSON files for easy updates and scalability.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 💻 Tech Stack:
+• React.js
+
+• Chart.js
+
+• Modern Flexbox-based CSS
