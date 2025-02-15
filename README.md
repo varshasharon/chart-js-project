@@ -22,3 +22,5 @@ Dynamic data sourced from JSON files for easy updates and scalability.
 • Chart.js
 
 • Modern Flexbox-based CSS
+
+
